@@ -1,13 +1,13 @@
 @property --sky-top {
   syntax: "<color>";
   inherits: true;
-  initial-value: #11262e;
+  initial-value: #ff0022;
 }
 
 @property --sky-bottom {
   syntax: "<color>";
   inherits: true;
-  initial-value: #498eac;
+  initial-value: #ba0da0;
 }
 
 :root {
